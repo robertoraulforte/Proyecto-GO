@@ -3,6 +3,7 @@ module proy_final
 go 1.24.5
 
 require (
+	github.com/go-gota/gota v0.12.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/mattn/go-sqlite3 v1.14.28 // indirect
 	github.com/richardlehane/mscfb v1.0.4 // indirect
@@ -18,4 +19,5 @@ require (
 	golang.org/x/net v0.40.0 // indirect
 	golang.org/x/sys v0.33.0 // indirect
 	golang.org/x/text v0.25.0 // indirect
+	gonum.org/v1/gonum v0.16.0 // indirect
 )
